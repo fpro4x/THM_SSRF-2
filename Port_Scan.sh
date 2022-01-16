@@ -1,6 +1,5 @@
 #! /bin/bash
 
-
 read -p "Box IP address.. " ip
 port=0
 while [ $port -lt 65536 ]
